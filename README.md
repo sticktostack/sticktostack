@@ -1,4 +1,4 @@
--  Hi, I’m @sticktostack [Rajdeep]
+-  Hi, I’m Rajdeep
 -  I’m interested in ... web development 
 -  I’m currently learning ...Web Development
 -  I’m looking for such collaborative project works for more improvement & to learn new skills .
