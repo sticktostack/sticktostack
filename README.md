@@ -51,6 +51,6 @@ I enjoy building projects that merge creativity with functionality.
   <br>
 
   - [LinkedIn](https://www.linkedin.com/in/rajdeep-debroy)  
-  - 📧 **Email:** [rajdeep6153@gmail.com](mailto:rajdeep6153@gmail.com)
+  - 📧 **Email:** [raajdeepdroy@gmail.com](mailto:raajdeepdroy@gmail.com)
 
 </details>
