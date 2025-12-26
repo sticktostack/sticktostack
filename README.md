@@ -15,7 +15,7 @@ I enjoy building projects that merge creativity with functionality.
 
   - **Frontend:** HTML, CSS, Vanilla JavaScript  
   - **Backend:** Node.js  
-  - **Programming:** Python  
+  - **Programming:** Python JavaScript C
   - **Others:** Responsive Design, REST APIs, Git & GitHub  
 
 </details>
