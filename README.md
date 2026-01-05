@@ -1,64 +1,92 @@
 <h1 align="center">Hi 👋, I'm Rajdeep Debroy</h1>
 <h3 align="center">Frontend Developer | Aspiring Software Engineer | Internship Seeker</h3>
 
+<p align="center">
+Building modern web interfaces • Learning by building • Open to internships
+</p>
+
 ---
 
-### 👨‍💻 About Me  
+<details open>
+<summary><b>👨‍💻 About Me</b></summary>
+
+<br/>
 
 - 🎯 Frontend Developer actively preparing for **internship & entry-level roles**
 - 💻 Strong foundation in **HTML, CSS, JavaScript**, and modern UI development
 - 🎨 Interested in **animations, 3D web experiences**, and performance optimization
 - 🧠 Practicing **Data Structures & Algorithms** consistently (LeetCode)
-- 🌱 Currently enhancing backend basics with **Node.js & MongoDB**
-- 📌 Believe in **learning by building** and sharing progress publicly  
+- 🌱 Improving backend basics with **Node.js & MongoDB**
+- 📌 Believe in **learning by building** and sharing progress publicly
+
+</details>
 
 ---
 
-### 🛠️ Tech Stack  
+<details>
+<summary><b>🛠️ Tech Stack</b></summary>
+
+<br/>
 
 #### 🌐 Frontend  
-- **HTML5**
-- **CSS3**
-- **JavaScript (ES6+)**
-- **Tailwind CSS**
-- **GSAP** – animations & interactions
-- **Three.js** – 3D web experiences
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- Tailwind CSS  
+- GSAP (Animations)  
+- Three.js (3D Web)
 
 #### ⚙️ Backend & Tools  
-- **Node.js** (Intermediate)
-- **MongoDB**
-- **Postman**
-- REST APIs
+- Node.js (Intermediate)  
+- MongoDB  
+- Postman  
+- REST APIs  
 
 #### 🧠 Problem Solving  
-- **Data Structures & Algorithms**
-- LeetCode | Logic Building | Optimization
+- Data Structures & Algorithms  
+- LeetCode | Logic Building  
+
+</details>
 
 ---
 
-### 📌 What I’m Currently Focused On  
+<details>
+<summary><b>📌 Current Focus</b></summary>
+
+<br/>
 
 - 🚀 Building **real-world frontend projects**
-- 🧩 Writing clean, scalable, and readable code
-- 📈 Improving problem-solving & DSA fundamentals
+- 🧩 Writing clean, scalable, and maintainable code
+- 📈 Strengthening DSA & problem-solving skills
 - 💼 Preparing for **Frontend / Software Developer Internships**
 
+</details>
+
 ---
 
-### 🧩 Projects  
+<details>
+<summary><b>🧩 Projects</b></summary>
 
-Explore my repositories to find:
-- Responsive and accessible UI projects  
+<br/>
+
+Explore my repositories to find projects involving:
+
+- Responsive & accessible UI designs  
 - JavaScript-based applications  
 - Smooth animations using **GSAP**  
-- 3D experiments using **Three.js**  
+- 3D web experiments using **Three.js**  
 - API-driven applications  
 
-👉 *Each project reflects hands-on learning and real implementation.*
+> Each project reflects hands-on learning and practical implementation.
+
+</details>
 
 ---
 
-### 📊 GitHub Stats  
+<details>
+<summary><b>📊 GitHub Stats</b></summary>
+
+<br/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajdeepdroy&show_icons=true&theme=tokyonight" />
@@ -68,14 +96,21 @@ Explore my repositories to find:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajdeepdroy&theme=tokyonight" />
 </p>
 
+</details>
+
 ---
 
-### 🤝 Let’s Connect  
+<details open>
+<summary><b>🤝 Let’s Connect</b></summary>
+
+<br/>
 
 - 📧 **Email:** rajdeepdroy@gmail.com  
-- 💼 **LinkedIn:** [Rajdeep Debroy](https://www.linkedin.com/in/rajdeep-debroy/)  
-- 🌐 **Portfolio:** [rajdeepdroy-portfolio.netlify.app](https://rajdeepdroy-portfolio.netlify.app/)  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/rajdeep-debroy/  
+- 🌐 **Portfolio:** https://rajdeepdroy-portfolio.netlify.app/
+
+</details>
 
 ---
 
-⭐ If you find my work interesting, feel free to explore my repositories and give them a star!
+⭐ *If you like my work, feel free to explore my repositories and give them a star!*
