@@ -1,56 +1,81 @@
-# 🌐 Hi, I'm **Rajdeep Deb Roy**  
-**Emerging Full Stack Developer | Passionate about Building Interactive Web Experiences**
+<h1 align="center">Hi 👋, I'm Rajdeep Debroy</h1>
+<h3 align="center">Frontend Developer | Aspiring Software Engineer | Internship Seeker</h3>
 
 ---
 
-### 💡 About Me  
-I'm a **BCA student** and a **web development enthusiast** focused on creating clean, responsive, and user-friendly digital experiences.  
-I enjoy building projects that merge creativity with functionality.
+### 👨‍💻 About Me  
+
+- 🎯 Frontend Developer actively preparing for **internship & entry-level roles**
+- 💻 Strong foundation in **HTML, CSS, JavaScript**, and modern UI development
+- 🎨 Interested in **animations, 3D web experiences**, and performance optimization
+- 🧠 Practicing **Data Structures & Algorithms** consistently (LeetCode)
+- 🌱 Currently enhancing backend basics with **Node.js & MongoDB**
+- 📌 Believe in **learning by building** and sharing progress publicly  
 
 ---
 
-<details>
-  <summary>🧠 <b>Tech Stack</b></summary>
-  <br>
+### 🛠️ Tech Stack  
 
-  - **Frontend:** HTML, CSS, Vanilla JavaScript  
-  - **Backend:** Node.js  
-  - **Programming:** Python JavaScript C
-  - **Others:** Responsive Design, REST APIs, Git & GitHub  
+#### 🌐 Frontend  
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6+)**
+- **Tailwind CSS**
+- **GSAP** – animations & interactions
+- **Three.js** – 3D web experiences
 
-</details>
+#### ⚙️ Backend & Tools  
+- **Node.js** (Intermediate)
+- **MongoDB**
+- **Postman**
+- REST APIs
 
----
-
-<details>
-  <summary>🚀 <b>What I Do</b></summary>
-  <br>
-
-  - Build **interactive and responsive web interfaces**  
-  - Develop **server-side logic** with Node.js  
-  - Automate and script using **Python**  
-  - Explore full-stack project ideas and open-source contributions  
-
-</details>
+#### 🧠 Problem Solving  
+- **Data Structures & Algorithms**
+- LeetCode | Logic Building | Optimization
 
 ---
 
-<details>
-  <summary>📈 <b>GitHub Highlights</b></summary>
-  <br>
+### 📌 What I’m Currently Focused On  
 
-  ![Rajdeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
-</details>
+- 🚀 Building **real-world frontend projects**
+- 🧩 Writing clean, scalable, and readable code
+- 📈 Improving problem-solving & DSA fundamentals
+- 💼 Preparing for **Frontend / Software Developer Internships**
 
 ---
 
-<details>
-  <summary>📫 <b>Connect with Me</b></summary>
-  <br>
+### 🧩 Projects  
 
-  - [LinkedIn](https://www.linkedin.com/in/rajdeep-debroy)  
-  - 📧 **Email:** [raajdeepdroy@gmail.com](mailto:raajdeepdroy@gmail.com)
+Explore my repositories to find:
+- Responsive and accessible UI projects  
+- JavaScript-based applications  
+- Smooth animations using **GSAP**  
+- 3D experiments using **Three.js**  
+- API-driven applications  
 
-</details>
+👉 *Each project reflects hands-on learning and real implementation.*
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajdeepdroy&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajdeepdroy&theme=tokyonight" />
+</p>
+
+---
+
+### 🤝 Let’s Connect  
+
+- 📧 **Email:** rajdeepdroy@gmail.com  
+- 💼 **LinkedIn:** [Rajdeep Debroy](https://www.linkedin.com/in/rajdeep-debroy/)  
+- 🌐 **Portfolio:** [rajdeepdroy-portfolio.netlify.app](https://rajdeepdroy-portfolio.netlify.app/)  
+
+---
+
+⭐ If you find my work interesting, feel free to explore my repositories and give them a star!
