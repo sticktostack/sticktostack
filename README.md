@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rajdeep Debroy</h1>
-<h3 align="center">Frontend Developer | Aspiring Software Engineer | Internship Seeker</h3>
+<h1 align="center">Hey, I'm Rajdeep Deb Roy</h1>
+<h3 align="center">Frontend Developer | Aspiring Software Engineer | Web-app Enthusiast</h3>
 
 <p align="center">
 Building modern web interfaces • Learning by building • Open to internships
