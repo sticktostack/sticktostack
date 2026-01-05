@@ -83,22 +83,6 @@ Explore my repositories to find projects involving:
 
 ---
 
-<details>
-<summary><b>📊 GitHub Stats</b></summary>
-
-<br/>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rajdeepdroy&theme=tokyonight&hide_border=true" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajdeepdroy&theme=tokyonight" />
-</p>
-
-</details>
-
 ---
 
 <details open>
