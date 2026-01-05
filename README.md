@@ -89,8 +89,9 @@ Explore my repositories to find projects involving:
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajdeepdroy&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=rajdeepdroy&theme=tokyonight&hide_border=true" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajdeepdroy&theme=tokyonight" />
